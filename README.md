@@ -1,4 +1,4 @@
-It sounds like you have a dataset that includes a variety of features related to different animal species, such as their physical characteristics, lifespan, habitat, diet, and other factors. Here's a breakdown of each attribute based on the description you provided:
+It is a dataset that includes a variety of features related to different animal species, such as their physical characteristics, lifespan, habitat, diet, and other factors. Here's a breakdown of each attribute based on the description provided:
 
 1. **Animal**: The species or common name of the animal.
 2. **Height (cm)**: The average height of the animal in centimeters.
